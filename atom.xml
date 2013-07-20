@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://LJY2011.github.io/atom.xml" rel="self"/>
+  <link href="http://LJY2011.github.io/"/>
+  <updated>2013-07-20T12:28:21+08:00</updated>
+  <id>http://LJY2011.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[title]]></title>
+    <link href="http://LJY2011.github.io/blog/2013/07/20/title/"/>
+    <updated>2013-07-20T12:27:00+08:00</updated>
+    <id>http://LJY2011.github.io/blog/2013/07/20/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://LJY2011.github.io/blog/2013/07/19/hello-world/"/>
+    <updated>2013-07-19T12:07:00+08:00</updated>
+    <id>http://LJY2011.github.io/blog/2013/07/19/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My first blog]]></title>
+    <link href="http://LJY2011.github.io/blog/2013/07/19/my-first-blog/"/>
+    <updated>2013-07-19T12:02:00+08:00</updated>
+    <id>http://LJY2011.github.io/blog/2013/07/19/my-first-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[title]]></title>
+    <link href="http://LJY2011.github.io/blog/2013/07/19/title/"/>
+    <updated>2013-07-19T11:41:00+08:00</updated>
+    <id>http://LJY2011.github.io/blog/2013/07/19/title</id>
+    <content type="html"><![CDATA[<p>这是一个普通段落。</p>
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+
+<p>这是另一个普通段落。</p>
+
+<h2>Hello octopress!</h2>
+]]></content>
+  </entry>
+  
+</feed>
